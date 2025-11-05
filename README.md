@@ -10,7 +10,7 @@ Meus estudos dos cursos da Alura
 - Lógica de Programação: https://cursos.alura.com.br/user/igorgbo03/course/logica-programacao-mergulhe-programacao-javascript/certificate?darkmode=false&headerless
 
 ## 🧠 Resumos e Aprendizados
-- Git e GitHub: Compartilhando e Colaborando em Projetos:
+Git e GitHub: Compartilhando e Colaborando em Projetos:
 Curso focado em ensinar como trabalhar com versionamento de código e colaboração entre desenvolvedores.
 - Fundamentos do Git e controle de versão
 - Criação e gerenciamento de repositórios
